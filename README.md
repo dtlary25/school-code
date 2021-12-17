@@ -1,2 +1,7 @@
 # school-code
-# This is the local main branch
+
+This is feature1 branch
+# This the feature branch
+# For demo purpose
+Edited from github
+
